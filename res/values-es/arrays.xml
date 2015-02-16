@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="factorialModels" >
+        <item>Elija modelo</item>  
+        <item>Un solo factor</item>
+        <item>Bloques Aleatorizados</item>
+        <item>Cuadrado Latino</item>
+    </string-array>
+</resources>

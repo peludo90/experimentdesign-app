@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="factorialModels" >
+        <item>Select Model</item>
+        <item>One Factor</item>
+        <item>Randomized Blocks</item>
+        <item>Latin Square</item>
+    </string-array>
+    
+    
+</resources>

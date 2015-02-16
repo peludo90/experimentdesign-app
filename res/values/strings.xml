@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Experiment Desing</string>
+    <string name="action_settings">Settings</string>
+    <string name="textTreatments">Name of the treatments</string>
+    <string name="editTreatmentsHint">Treatment1, Treatment2&#8230;</string>
+    <string name="textRows">Name of the rows</string>
+    <string name="editRowsHint">Row1, Row2, Row3&#8230;</string>
+    <string name="textBlocks">Name of the blocks</string>
+    <string name="editBlocksHint">Block1, Block2, Block3&#8230;</string>
+    <string name="textColumns">Name of the columns</string>
+    <string name="editColumnsHint">Column1, Columns2&#8230;</string>
+    <string name="textMatrix">Enter matrix</string>
+    <string name="editMatrixHint">1, 4, 5, 7;\n2, 6, 3, 9;\n8, 1, 6, 5;\n4, -5, 7, 8;</string>
+    <string name="editMatrixHintLS">A=1, C=2, B=3;\nB=6, A=7, C=9;\nC=5, B=8, A=4;</string>
+    <string name="buttonDoAnalysis">Do Analysis</string>
+    
+    
+    <string name="title_activity_results">ResultsActivity</string>
+    
+    
+    <string name="tableConfidence">Confidence Interval</string>
+    
+	<string name="tableTreatments">Treatments</string>
+    <string name="tableBlocks">Blocks</string>
+    <string name="tableColumns">Columns</string>
+	<string name="tableRows">Rows</string>
+    <string name="tableError">Error</string>
+	<string name="tableTotals">Totals</string>
+
+	<string name="tableheaderFonts">Fonts</string>
+	<string name="tableheaderSS">SS</string>
+	<string name="tableheaderGL">GL</string>
+	<string name="tableheaderMS">MS</string>
+	<string name="tableheaderF0">F0</string>
+	<string name="tableheaderValueP">Value P</string>
+	
+	
+	<string name="validHyphotesis">The valueP is mayor than the F0 of the model, so the hyphotesis is valid under a confidence interval of </string>
+	<string name="notValidHyphotesis">The valueP is minor than the F0 of the model, so the hyphotesis is not valid under a confidence interval of </string>
+	
+	
+	<string name="textComparisonMeansTitle">Mean Comparison</string>
+	<string name="lsdValue">LSD value = </string>
+</resources>
